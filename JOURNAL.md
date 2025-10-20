@@ -6,14 +6,16 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Lotus Lamp**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/742).
-
-
 ## 10/19/2025 - My first entry...  
 
 Hey guys!! I am looking into some resources for modelling hollow objects in blender. For the electronics, i have purchased a set of strip LED lights of the white color. Currently trying to power them using USB cables, for easy applications.
 
 Cheers!!!!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--b6e1fc30baad1423a977e83eddec58e6f8edf703/image.png)
+  
+
+## 10/20/2025 - Started modelling the lamp.  
+
+So... Today, I started modelling on the main Lotus in blender, for the lamp structure! It was something really fun and i liked the enjoyable process!!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6dae8bd5feb94fc75469103d053edcc99efa98dc/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MywicHVyIjoiYmxvYl9pZCJ9fQ==--a18f52f5bdc7fdfbf2f04a5d89396936c7936541/image.png)
   
 
