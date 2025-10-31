@@ -19,3 +19,9 @@ So... Today, I started modelling on the main Lotus in blender, for the lamp stru
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MywicHVyIjoiYmxvYl9pZCJ9fQ==--a18f52f5bdc7fdfbf2f04a5d89396936c7936541/image.png)
   
 
+## 10/31/2025 - Designed the base to hold LED  
+
+Designed the base to hold the lotus and the LED lights in it using Fusion. A small side hole for easy out for the usb cable to be soldered on the led strip.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkxNywicHVyIjoiYmxvYl9pZCJ9fQ==--338182e74ebd06e0baa8a02a0d0edad27a5b1576/image.png)
+  
+
